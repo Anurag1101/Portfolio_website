@@ -18,8 +18,9 @@ This is a personal `portfolio` website designed to showcase my skills, projects,
   
 - **Contact**
 
-Description
-This portfolio website demonstrates my skills and projects, including Python development, web development with the MERN stack, and various certifications. The website includes sections for Home, About Me, Education, Skills, Projects, and Contact. It is responsive, meaning it adjusts gracefully on both mobile and desktop devices.
+## Description:
+
+This portfolio website demonstrates my skills and projects, including Python development, web development with the MERN stack, and various certifications. The website includes sections for **Home, About Me, Education, Skills, Projects, and Contact.** It is responsive, meaning it adjusts gracefully on both mobile and desktop devices.
 
 Key Sections:
 Home: A welcoming introduction with download options for my resume and a "Hire Me" button.
