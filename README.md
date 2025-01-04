@@ -4,7 +4,7 @@ This is a personal `portfolio` website designed to showcase my skills, projects,
 
 ## Table of Contents:
 
-- [Description](#Description)
+- [Description](#description)
 - [How to Play](#how-to-play)
 - [Game Logic](#game-logic)
 - [Installation](#installation)
