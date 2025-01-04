@@ -38,7 +38,7 @@ This portfolio website demonstrates my skills and projects, including Python dev
 
 ## Features:
 
-- Responsive design for mobile and desktop devices.
+- **Responsive design** for mobile and desktop devices.
   
 - Interactive navigation bar with active link highlighting.
 
