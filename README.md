@@ -1,5 +1,6 @@
-Portfolio Website
-This is a personal portfolio website designed to showcase my skills, projects, and achievements as a Software Engineer. The website is built using HTML, CSS, and JavaScript.
+# Portfolio Website
+
+This is a personal `portfolio` website designed to showcase my skills, projects, and achievements as a Software Engineer. The website is built using `HTML`, `CSS`, and `JavaScript`.
 
 Table of Contents
 Description
