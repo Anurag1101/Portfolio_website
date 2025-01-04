@@ -24,7 +24,7 @@ This portfolio website demonstrates my skills and projects, including Python dev
 
 ## Key Sections:
 
-- **Home:** A welcoming introduction with download options for my resume and a "Hire Me" button.
+- **Home:** A welcoming introduction with download options for my resume and a `"Hire Me"` button.
   
 - **About Me:** Detailed information about my education, certifications, and work experiences.
   
@@ -34,7 +34,7 @@ This portfolio website demonstrates my skills and projects, including Python dev
  
 - **Contact:** A form where visitors can contact me directly.
   
-- **Social Links:** Links to my LinkedIn, GitHub, and WhatsApp profiles.
+- **Social Links:** Links to my `LinkedIn`, `GitHub`, and `WhatsApp` profiles.
 
 Features
 Responsive design for mobile and desktop devices.
