@@ -4,13 +4,16 @@ This is a personal `portfolio` website designed to showcase my skills, projects,
 
 ## Table of Contents:
 
-- #Description
-Features
-Technologies Used
-Installation
-Usage
-License
-Contact
+- [Description](#Description)
+- [How to Play](#how-to-play)
+- [Game Logic](#game-logic)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+
 Description
 This portfolio website demonstrates my skills and projects, including Python development, web development with the MERN stack, and various certifications. The website includes sections for Home, About Me, Education, Skills, Projects, and Contact. It is responsive, meaning it adjusts gracefully on both mobile and desktop devices.
 
