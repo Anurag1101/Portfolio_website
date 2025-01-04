@@ -84,7 +84,7 @@ This project is licensed under the `MIT` License - see the LICENSE file for deta
 
 ## Contact:
 
-For any inquiries, you can reach me at #anuragtiwari0902@gmail.com.
+For any inquiries, you can reach me at anuragtiwari0902@gmail.com.
 
-You can also check out my `GitHub` repositories at #https://github.com/Anurag1101.
+You can also check out my `GitHub` repositories at https://github.com/Anurag1101.
 
