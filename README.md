@@ -44,37 +44,47 @@ This portfolio website demonstrates my skills and projects, including Python dev
 
 - Scroll animations for section transitions.
 
-- Dynamic "Read More" functionality in the About Me section.
+- Dynamic **"Read More"** functionality in the About Me section.
   
-- Social media icons for LinkedIn, GitHub, and WhatsApp.
+- Social media icons for `LinkedIn`, `GitHub`, and `WhatsApp`.
   
 - Contact form to reach out directly to me.
 
-Technologies Used
-HTML5: For the structure of the website.
-CSS3: For styling the website, including layout and animations.
-JavaScript: For interactive features like the navigation bar, scroll effects, and "Read More" functionality.
-Installation
-To run this project locally:
+## Technologies Used:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Anurag1101/portfolio-website.git
-Navigate to the project folder:
-bash
-Copy code
-cd portfolio-website
-Open the index.html file in your browser.
-Usage
-The website is fully functional and can be customized as needed.
-You can add new sections or modify existing content by editing the HTML and CSS files.
-Update the links to your social media profiles in the "Social Links" section.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **HTML5:** For the structure of the website.
+  
+- **CSS3:** For styling the website, including layout and animations.
 
-Contact
-For any inquiries, you can reach me at anuragtiwari0902@gmail.com.
+- **JavaScript:** For interactive features like the navigation bar, scroll effects, and "Read More" functionality.
 
-You can also check out my GitHub repositories at https://github.com/Anurag1101.
+## Installation:
+
+**To run this project locally:**
+
+    git clone https://github.com/Anurag1101/portfolio-website.git
+
+**Navigate to the project folder:**
+
+    cd portfolio-website
+
+**Open the `index.html` file in your browser.**
+
+## Usage:
+
+- The website is fully functional and can be customized as needed.
+  
+- You can add new sections or modify existing content by editing the **HTML** and **CSS** files.
+
+- Update the links to your social media profiles in the **"Social Links"** section.
+
+## License:
+
+This project is licensed under the `MIT` License - see the LICENSE file for details.
+
+## Contact:
+
+For any inquiries, you can reach me at #anuragtiwari0902@gmail.com.
+
+You can also check out my `GitHub` repositories at #https://github.com/Anurag1101.
 
