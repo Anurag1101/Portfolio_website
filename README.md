@@ -36,13 +36,20 @@ This portfolio website demonstrates my skills and projects, including Python dev
   
 - **Social Links:** Links to my `LinkedIn`, `GitHub`, and `WhatsApp` profiles.
 
-Features
-Responsive design for mobile and desktop devices.
-Interactive navigation bar with active link highlighting.
-Scroll animations for section transitions.
-Dynamic "Read More" functionality in the About Me section.
-Social media icons for LinkedIn, GitHub, and WhatsApp.
-Contact form to reach out directly to me.
+## Features:
+
+- Responsive design for mobile and desktop devices.
+  
+- Interactive navigation bar with active link highlighting.
+
+- Scroll animations for section transitions.
+
+- Dynamic "Read More" functionality in the About Me section.
+  
+- Social media icons for LinkedIn, GitHub, and WhatsApp.
+  
+- Contact form to reach out directly to me.
+
 Technologies Used
 HTML5: For the structure of the website.
 CSS3: For styling the website, including layout and animations.
